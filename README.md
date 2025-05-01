@@ -1,22 +1,22 @@
 # Portfolio - Raka Surya Kusuma
 
-Halo! Saya Raka Surya Kusuma, seorang mahasiswa di bidang Informatika yang berfokus pada analisis data dan ilmu data. Portfolio ini berisi proyek-proyek yang saya kerjakan, yang mencakup berbagai teknik analisis data, pemrograman, dan machine learning. Di sini, Anda dapat menemukan karya saya di berbagai topik seperti analisis data, visualisasi, dan pembuatan model prediktif.
+Hello! I’m Raka, a student in Informatics with a special interest in data science, machine learning, and data analysis. This portfolio contains projects I’ve worked on, showcasing various data analysis, machine learning, and data visualization techniques.
 
-## 🎯 Tujuan
+## 🎯 Goal
 
-Tujuan dari portfolio ini adalah untuk menunjukkan keterampilan saya dalam bidang data, termasuk pengolahan data, analisis statistik, dan pembuatan model machine learning. Proyek-proyek ini mencakup penggunaan alat dan bahasa pemrograman seperti Python, R, SQL, dan lainnya untuk menganalisis data yang beragam.
+The goal of this portfolio is to demonstrate my skills in data processing, statistical analysis, and building machine learning models. The projects utilize tools and programming languages such as Python, R, SQL, and others to analyze diverse datasets.
 
 ## 💡 Skill Set
 
-- **Bahasa Pemrograman**: Python, R, SQL
-- **Alat**: Jupyter Notebooks, R Studio, Git, GitHub, Tableau, Power BI
+- **Programming Languages**: Python, R, SQL
+- **Tools**: Jupyter Notebooks, R Studio, Git, GitHub, Tableau, Power BI
 - **Library**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- **Machine Learning**: Model prediksi, clustering, regresi, klasifikasi, NLP
-- **Pengolahan Data**: Pembersihan data, eksplorasi data, visualisasi data
+- **Machine Learning**: Predictive modeling, clustering, regression, classification, NLP
+- **Data Processing**: Data cleaning, exploratory data analysis, data visualization
 
-## 📂 Proyek Data
+## 📂 Projects
 
-Berikut adalah beberapa proyek yang saya kerjakan dan dapat Anda temukan di repositori ini:
+Here are some of the projects I’ve worked on and available in this repository:
 
 <!-- ### 1. **Proyek Analisis Data Penjualan**
 - **Deskripsi**: Analisis data penjualan dari sebuah perusahaan retail untuk menemukan tren penjualan dan prediksi produk yang paling laris.
@@ -43,19 +43,19 @@ Berikut adalah beberapa proyek yang saya kerjakan dan dapat Anda temukan di repo
 - **Tools yang digunakan**: Python (NLTK, Scikit-learn)
 - **[Lihat Proyek](link-ke-repositori-proyek)** -->
 
-## 🚀 Proses Kerja
+## 🚀 Work Process
 
-Saya mengikuti langkah-langkah berikut dalam setiap proyek:
+I follow these steps in every project:
 
-1. **Pengumpulan Data**: Mengumpulkan dataset dari berbagai sumber atau API.
-2. **Pembersihan Data**: Menangani data yang hilang, duplikat, atau kesalahan lainnya.
-3. **Eksplorasi Data**: Menganalisis data untuk menemukan pola atau tren.
-4. **Modeling**: Membangun dan melatih model menggunakan algoritma machine learning.
-5. **Evaluasi**: Mengevaluasi model menggunakan metrik yang relevan.
-6. **Visualisasi**: Menampilkan hasil analisis dengan grafik dan visualisasi yang jelas.
+1. **Data Collection**: Gathering datasets from various sources or APIs.
+2. **Data Cleaning**: Handling missing, duplicate, or erroneous data.
+3. **Exploratory Data Analysis (EDA)**: Analyzing the data to uncover patterns or trends.
+4. **Modeling**: Building and training models using machine learning algorithms.
+5. **Evaluation**: Evaluating models using relevant metrics.
+6. **Visualization**: Presenting analysis results with clear graphs and visualizations.
 
-## 📬 Kontak
+## 📬 Contact
 
-Jika Anda tertarik dengan pekerjaan saya atau ingin berkolaborasi, jangan ragu untuk menghubungi saya melalui:
+If you're interested in my work or want to collaborate, feel free to contact me via:
 - **Email**: anak.ai.indonesia@gmail.com
 <!-- - **LinkedIn**: [link-ke-linkedin-anda] -->
