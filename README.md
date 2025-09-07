@@ -57,5 +57,5 @@ I follow these steps in every project:
 ## 📬 Contact
 
 If you're interested in my work or want to collaborate, feel free to contact me via:
-- **Email**: anak.ai.indonesia@gmail.com
+- **Email**: drakasuryaksm@gmail.com
 <!-- - **LinkedIn**: [link-ke-linkedin-anda] -->
