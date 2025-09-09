@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://id.linkedin.com/in/raka-surya)">
+  <a href="https://id.linkedin.com/in/raka-surya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
-  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/d.rakasurya/)">
+  <a href="https://www.instagram.com/d.rakasurya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/youruserid">
