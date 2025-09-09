@@ -42,15 +42,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakasuryakusuma&show_icons=true&theme=github_dark" alt="raka-ds stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakasuryakusuma&show_icons=true&theme=tokyonight" alt="raka-ds stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakasuryakusuma&theme=github-dark" alt="raka-ds streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakasuryakusuma&theme=tokyonight" alt="raka-ds streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakasuryakusuma&layout=compact&theme=github_dark" alt="raka-ds languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakasuryakusuma&layout=compact&theme=tokyonight" alt="raka-ds languages" />
 </p>
 
 ---
