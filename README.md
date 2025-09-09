@@ -68,8 +68,8 @@
 ### 📫 Let's Connect
 
 - 📧 Email: drakasuryaksm@email.com  
-- 🐦 Instagram: @d.rakasurya((https://www.instagram.com/d.rakasurya/))  
-- 💼 LinkedIn: Raka Surya Kusuma((https://id.linkedin.com/in/raka-surya))
+- 🐦 Instagram: @d.rakasurya(https://www.instagram.com/d.rakasurya/)  
+- 💼 LinkedIn: Raka Surya Kusuma(https://id.linkedin.com/in/raka-surya)
 
 ---
 
