@@ -42,15 +42,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raka-ds&show_icons=true&theme=github_dark" alt="raka-ds stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakasuryakusuma&show_icons=true&theme=github_dark" alt="raka-ds stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raka-ds&theme=github-dark" alt="raka-ds streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakasuryakusuma&theme=github-dark" alt="raka-ds streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raka-ds&layout=compact&theme=github_dark" alt="raka-ds languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakasuryakusuma&layout=compact&theme=github_dark" alt="raka-ds languages" />
 </p>
 
 ---
@@ -68,8 +68,8 @@
 ### 📫 Let's Connect
 
 - 📧 Email: drakasuryaksm@email.com  
-- 🐦 Instagram: @d.rakasurya([https://twitter.com/yourhandle](https://www.instagram.com/d.rakasurya/))  
-- 💼 LinkedIn: Raka Surya Kusuma([https://linkedin.com/in/yourprofile](https://id.linkedin.com/in/raka-surya))
+- 🐦 Instagram: @d.rakasurya((https://www.instagram.com/d.rakasurya/))  
+- 💼 LinkedIn: Raka Surya Kusuma((https://id.linkedin.com/in/raka-surya))
 
 ---
 
