@@ -1,61 +1,76 @@
-# Portfolio - Raka Surya Kusuma
+<h1 align="center">Hi 👋, I'm Raka</h1>
+<h3 align="center">Data Scientist & Data Analyst | Python • SQL • Machine Learning</h3>
 
-Hello! I’m Raka, a student in Informatics with a special interest in data science, machine learning, and data analysis. This portfolio contains projects I’ve worked on, showcasing various data analysis, machine learning, and data visualization techniques.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raka-ds&label=Profile%20views&color=0e75b6&style=flat" alt="raka-ds" />
+</p>
 
-## 🎯 Goal
+<p align="center">
+  <a href="[https://linkedin.com/in/yourprofile](https://id.linkedin.com/in/raka-surya)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
+  </a>
+  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/d.rakasurya/)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=flat" />
+  </a>
+</p>
 
-The goal of this portfolio is to demonstrate my skills in data processing, statistical analysis, and building machine learning models. The projects utilize tools and programming languages such as Python, R, SQL, and others to analyze diverse datasets.
+---
 
-## 💡 Skill Set
+### 📊 Welcome to My Data Universe
 
-- **Programming Languages**: Python, R, SQL
-- **Tools**: Jupyter Notebooks, R Studio, Git, GitHub, Tableau, Power BI
-- **Library**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- **Machine Learning**: Predictive modeling, clustering, regression, classification, NLP
-- **Data Processing**: Data cleaning, exploratory data analysis, data visualization
+🔍 I turn raw data into actionable insights that drive decisions.  
+📈 I build predictive models, dashboards, and analytical pipelines.  
+🧠 I love exploring patterns, optimizing workflows, and telling stories with data.  
+📚 I share knowledge through notebooks, visualizations, and reproducible experiments.  
+🌏 Passionate about solving real-world problems with data.
 
-## 📂 Projects
+---
 
-Here are some of the projects I’ve worked on and available in this repository:
+### 🧰 My Toolbox
 
-<!-- ### 1. **Proyek Analisis Data Penjualan**
-- **Deskripsi**: Analisis data penjualan dari sebuah perusahaan retail untuk menemukan tren penjualan dan prediksi produk yang paling laris.
-- **Tools yang digunakan**: Python (Pandas, Matplotlib, Seaborn), SQL
-- **[Lihat Proyek](link-ke-repositori-proyek)**
+- **Languages:** Python, SQL, R  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow  
+- **Tools:** Jupyter, VS Code, Tableau, Power BI, Git, Docker, Looker Studio  
+- **Databases:** PostgreSQL, MySQL  
+- **Other:** Machine Learning, Data Wrangling, Feature Engineering, A/B Testing
 
-### 2. **Prediksi Harga Rumah Menggunakan Regresi Linear**
-- **Deskripsi**: Membangun model regresi linear untuk memprediksi harga rumah berdasarkan berbagai faktor seperti ukuran rumah, jumlah kamar, dan lokasi.
-- **Tools yang digunakan**: Python (Scikit-learn, Pandas, Matplotlib)
-- **[Lihat Proyek](link-ke-repositori-proyek)**
+---
 
-### 3. **Klasifikasi Gambar Menggunakan Convolutional Neural Networks**
-- **Deskripsi**: Membangun model CNN untuk mengklasifikasikan gambar ke dalam beberapa kategori.
-- **Tools yang digunakan**: Python (TensorFlow, Keras)
-- **[Lihat Proyek](link-ke-repositori-proyek)**
+### 📈 GitHub Stats
 
-### 4. **Pembersihan dan Eksplorasi Data COVID-19**
-- **Deskripsi**: Pembersihan dan analisis data COVID-19 untuk melihat tren infeksi dan tingkat kematian di berbagai negara.
-- **Tools yang digunakan**: Python (Pandas, Matplotlib, Seaborn)
-- **[Lihat Proyek](link-ke-repositori-proyek)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raka-ds&show_icons=true&theme=github_dark" alt="raka-ds stats" />
+</p>
 
-### 5. **Analisis Sentimen dari Ulasan Produk**
-- **Deskripsi**: Menggunakan analisis sentimen untuk menganalisis ulasan produk dan menentukan apakah ulasan tersebut positif, negatif, atau netral.
-- **Tools yang digunakan**: Python (NLTK, Scikit-learn)
-- **[Lihat Proyek](link-ke-repositori-proyek)** -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raka-ds&theme=github-dark" alt="raka-ds streak" />
+</p>
 
-## 🚀 Work Process
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raka-ds&layout=compact&theme=github_dark" alt="raka-ds languages" />
+</p>
 
-I follow these steps in every project:
+---
 
-1. **Data Collection**: Gathering datasets from various sources or APIs.
-2. **Data Cleaning**: Handling missing, duplicate, or erroneous data.
-3. **Exploratory Data Analysis (EDA)**: Analyzing the data to uncover patterns or trends.
-4. **Modeling**: Building and training models using machine learning algorithms.
-5. **Evaluation**: Evaluating models using relevant metrics.
-6. **Visualization**: Presenting analysis results with clear graphs and visualizations.
+### 🏆 Highlights
 
-## 📬 Contact
+- 📦 50+ Data Projects  
+- 📊 30+ Contributions  
+- 🧪 100+ Python Notebooks  
+- 🌟 10+ AI Projects
+- 🧠 Always learning, always iterating
 
-If you're interested in my work or want to collaborate, feel free to contact me via:
-- **Email**: drakasuryaksm@gmail.com
-<!-- - **LinkedIn**: [link-ke-linkedin-anda] -->
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: drakasuryaksm@email.com  
+- 🐦 Instagram: @d.rakasurya([https://twitter.com/yourhandle](https://www.instagram.com/d.rakasurya/))  
+- 💼 LinkedIn: Raka Surya Kusuma([https://linkedin.com/in/yourprofile](https://id.linkedin.com/in/raka-surya))
+
+---
+
+> “Data is not just numbers—it's the story behind every decision.” — Raka
