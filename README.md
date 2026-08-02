@@ -58,7 +58,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakasuryakusuma&show_icons=true&theme=tokyonight" alt="Raka's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakasuryakusuma&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Raka's GitHub stats" />
 </p>
 
 <p align="center">
@@ -66,14 +66,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakasuryakusuma&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakasuryakusuma&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <details>
 <summary>🏆 GitHub Trophies (click to expand)</summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakasuryakusuma&theme=tokyonight&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakasuryakusuma&theme=tokyonight&row=1&column=6&no-frame=true" alt="Trophies" />
 </p>
 </details>
 
