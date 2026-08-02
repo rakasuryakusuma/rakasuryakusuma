@@ -73,7 +73,7 @@
 <summary>🏆 GitHub Trophies (click to expand)</summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakasuryakusuma&theme=tokyonight&row=1&column=6&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakasuryakusuma&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 </details>
 
