@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Raka</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%26+Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning;Turning+raw+data+into+decisions;Always+learning%2C+always+iterating&font=Fira+Code&center=true&width=520&height=45&duration=3000&pause=1000&color=0E75B6&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer+%26+AI+Engineer;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning;Turning+raw+data+into+decisions;Always+learning%2C+always+iterating&font=Fira+Code&center=true&width=520&height=45&duration=3000&pause=1000&color=0E75B6&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
